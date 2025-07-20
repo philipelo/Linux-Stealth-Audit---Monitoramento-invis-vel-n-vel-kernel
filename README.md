@@ -19,4 +19,5 @@ Quer ver quando alguém usa o comando `bash` (o terminal) no seu sistema? Você 
 ```bash
 sudo auditctl -a always,exit -F arch=b64 -S execve -F path=/bin/bash -k monitor_bash
 
+"É fundamental ressaltar: este projeto foi desenvolvido exclusivamente para fins de proteção e defesa, visando fortalecer a segurança do seu sistema, e não para qualquer tipo de uso ofensivo ou malicioso."
 

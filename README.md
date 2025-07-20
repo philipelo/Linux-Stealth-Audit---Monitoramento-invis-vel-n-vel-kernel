@@ -1,4 +1,4 @@
-# Linux-Stealth-Audit---Monitoramento-invis-vel-n-vel-kernel
+# Linux-Stealth-Audit---Monitoramento-invisivel-kernel
 Um sistema de auditoria furtiva para Linux, focado em monitoramento de processos em nível de kernel sem scripts, utilizando apenas ferramentas nativas."
 Linux Stealth Audit - Monitoramento Invisível Nível Kernel
 Este projeto de contra inteligência digital simula uma operação de monitoramento avançado e furtivo de processos em sistemas Linux. Utilizando ferramentas nativas como auditctl, ausearch e auditd, o "Linux Stealth Audit" captura execuções críticas em tempo real, sem a necessidade de scripts automatizados.
